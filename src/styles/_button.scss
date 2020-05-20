@@ -1,0 +1,15 @@
+.button {
+    background-color: grey;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: 700;
+    padding: 0.5rem;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+    &:hover {
+      color: gray;
+      background-color:white;
+      text-decoration: none;
+    }
+  }
