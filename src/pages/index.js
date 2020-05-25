@@ -15,7 +15,7 @@ const IndexPage = ({ data }) => (
     {/* <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p> */}
     {/* <p><Link to="/projects">Check out my projects page</Link></p> */}
-    <div class="gar-img" style={{  maxWidth: `400px`, marginBottom: `1.45rem` }}>
+    <div className="gar-img" style={{  maxWidth: `400px`, marginBottom: `1.45rem` }}>
     <Img fluid={data.file.childImageSharp.fluid} alt="brick" title="brick" />
     </div>
   </Layout>
