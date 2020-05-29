@@ -1,8 +1,8 @@
 ---
-title: Test Post 3
-date: 2020-05-10
-thumbnail: "../../images/pic-person-03.jpg"
-tags: ['test', 'technical', 'code']
+title: 'Project Journal #1: Concepts vs Features'
+date: 2020-05-29
+thumbnail: "../../images/journal.jpg"
+tags: ['pj', 'lb']
 ---
 
 This is my third post!
