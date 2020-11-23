@@ -5,7 +5,12 @@ module.exports = {
     author: `@garethbrickman`,
   },
   plugins: [
-    `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-plugin-sass`,
+      options: {
+          implementation: require('sass')
+      },
+    },
     `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
