@@ -12,7 +12,7 @@ const Header = ({ siteTitle }) => (
     <nav>
       <Link to="/about">About</Link>
       <Link to="/projects">Projects</Link>
-      <Link to="https://drive.google.com/file/d/1LhGB-uQU2xrhaCeCxcidwyhgUrgXV0a-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</Link>
+      <a href="https://drive.google.com/file/d/1LhGB-uQU2xrhaCeCxcidwyhgUrgXV0a-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
 {/*       <Link to="/blog">Blog</Link> */}
       <Link to="/contact">Contact</Link>
     </nav>
