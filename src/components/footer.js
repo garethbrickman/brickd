@@ -6,12 +6,7 @@ const Footer = () => (
       © {new Date().getFullYear()} Suave Na Nave LLC. Built with 
       {` `}
       <a href="https://www.gatsbyjs.org"
-      target="_blank" rel="noopener noreferrer">Gatsby</a>
-      , and the teachings of 
-      {` `}
-      <a href=
-      "https://dennytek.com/blog/personal-site-with-gatsby-part-1"
-      target="_blank" rel="noopener noreferrer">Denny Tek</a>.
+      target="_blank" rel="noopener noreferrer">Gatsby</a>.
     </div>
   </footer>
 );
