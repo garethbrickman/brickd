@@ -8,16 +8,18 @@ import Img from 'gatsby-image';
 const AboutPage = ({ data }) => (
   <Layout>
     <SEO title="About" />
-    <p>Full Stack Software Developer trying not to brick everything.</p>
+    <h3>Full Stack Software Developer trying not to brick everything.</h3>
     <div class="about-img" style={{  maxWidth: `400px`, marginBottom: `1.45rem` }}>
     <Img fluid={data.file.childImageSharp.fluid} alt="brick again" title="brick again" />
     </div>
-    <p>I’m a software engineer and the founder of Suave Na Nave LLC, which is a Brazilian Portuguese phrase meaning <em>supercool</em>.</p>
+    <p>I’m a software engineer and the founder of Suave Na Nave, LLC <em>(A Brazilian Portuguese phrase meaning "supercool")</em>.</p>
     <p>My two prime motivators are deep desires to learn and rapidly figure unfamiliar tech out and to be practically and meaningfully helpful.</p>
     <p>In my tech experience doing web deployments and backend ops work I have found I most enjoyed playing the tech detective. I love sleuthing out complex problems on-the-fly; from obscure compiler error messages to reconciling tech stack integration quirks to pinpointing that fat finger human error within the codebase.</p>
     <p><a href="https://www.holbertonschool.com"
     target="_blank" rel="noopener noreferrer">Holberton’s</a> expansive curriculum exposes us to multiple tech stacks where learning fast and pinpointing issues are key skills to have. </p>
-    <p><em>The construction of this site would not have been possible without troubleshooting from:</em></p>
+    <br/>
+    <hr/>
+    <p>The construction of this site would not have been possible without troubleshooting from:</p>
     <p><a href="https://jenniferwadella.com/blog/all-the-dumb-mistakes-i-made-building-my-first-gatsby-site"
     target="_blank" rel="noopener noreferrer">Jennifer Wadella</a></p>
     <p><a href="https://chenhuijing.com/blog/flexbox-and-absolute-positioning/#%F0%9F%91%9F"
