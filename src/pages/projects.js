@@ -1,5 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+import { SiGithub } from 'react-icons/si';
+
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 import Img from 'gatsby-image';
@@ -22,8 +24,9 @@ const ProjectsPage = ({ data }) => (
             <div className="project-list__excerpt">
               {project.node.description}
             </div>
-            <a href={project.node.url}>
-              <Button buttonText="Visit the Website" />
+            <a href={project.node.url} target="_blank" rel="noopener noreferrer">
+                  <p><SiGithub /> </p>
+{/*{}               <Button buttonText="View the Github Repo" /> */}
             </a>
           </div>
         </div>
