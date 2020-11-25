@@ -3,7 +3,7 @@
       "title": "CTCovid19.com",
       "date": "2020-04",
       "description":
-        "A ReactJS web app deployed on AWS that featured daily updates of COVID-19 stats in Connecticut.",
+        "A ReactJS web app deployed on AWS that featured daily updates of COVID-19 stats in Connecticut. Built with two of my Holberton School peers on the fly.",
       "url": "https://github.com/garethbrickman/ctcovid19",
       "exturl": "https://www.ctcovid19.com",
       "thumbnailImage": "../images/projects/ctcovid19.png"
@@ -12,7 +12,7 @@
       "title": "Holberton Headphones",
       "date": "2020-02",
       "description":
-        "A Figma-designed ecommerce landing page, built with HTML, CSS, SCSS, Bootstrap, JQuery.",
+        "A Figma-designed ecommerce landing page, built with HTML, CSS, SCSS, Bootstrap, and JQuery.",
       "url": "https://github.com/garethbrickman/holberton-headphones",
       "exturl": "#",
       "thumbnailImage": "../images/projects/headphones.png"
@@ -21,7 +21,7 @@
       "title": "Holberton Smile School",
       "date": "2020-01",
       "description":
-        "A Figma-designed ecommerce landing page, built with HTML, CSS, SCSS, Bootstrap, JQuery.",
+        "A Figma-designed ecommerce landing page, built with HTML, CSS, SCSS, Bootstrap, and JQuery.",
       "url": "https://github.com/garethbrickman/holberton-smiling-school",
       "exturl": "#",
       "thumbnailImage": "../images/projects/smile.png"
@@ -30,7 +30,7 @@
       "title": "hbnb",
       "date": "2020-03",
       "description":
-        "An AirBnB listing page clone, built with Python, Flask, MySQL, vanilla Javascript, HTML, CSS",
+        "An AirBnB listing page clone, built with Python, Flask, MySQL, HTML, CSS, and vanilla Javascript.",
       "url": "https://github.com/garethbrickman/AirBnB_clone_v4",
       "exturl": "#",
       "thumbnailImage": "../images/projects/hbnb.png"
