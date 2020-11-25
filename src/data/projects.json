@@ -12,7 +12,7 @@
       "title": "Holberton Headphones",
       "date": "2020-02",
       "description":
-        "A Figma-designed ecommerce landing page, built with HTML, CSS, SCSS, Bootstrap, and JQuery.",
+        "A Figma-designed ecommerce landing page, built with HTML, CSS, SCSS, Bootstrap, and JQuery. Part of Holberton School's Full Stack Web Dev specialization.",
       "url": "https://github.com/garethbrickman/holberton-headphones",
       "exturl": "#",
       "thumbnailImage": "../images/projects/headphones.png"
@@ -21,7 +21,7 @@
       "title": "Holberton Smile School",
       "date": "2020-01",
       "description":
-        "A Figma-designed ecommerce landing page, built with HTML, CSS, SCSS, Bootstrap, and JQuery.",
+        "A Figma-designed ecommerce landing page, built with HTML, CSS, SCSS, Bootstrap, and JQuery. Part of Holberton School's Full Stack Web Dev specialization.",
       "url": "https://github.com/garethbrickman/holberton-smiling-school",
       "exturl": "#",
       "thumbnailImage": "../images/projects/smile.png"
@@ -30,7 +30,7 @@
       "title": "hbnb",
       "date": "2020-03",
       "description":
-        "An AirBnB listing page clone, built with Python, Flask, MySQL, HTML, CSS, and vanilla Javascript.",
+        "An AirBnB listing page clone, built with Python, Flask, MySQL, HTML, CSS, and vanilla Javascript. Part of Holberton School's Full Stack Web Dev specialization.",
       "url": "https://github.com/garethbrickman/AirBnB_clone_v4",
       "exturl": "#",
       "thumbnailImage": "../images/projects/hbnb.png"
