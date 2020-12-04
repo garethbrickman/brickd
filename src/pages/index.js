@@ -9,7 +9,7 @@ import SEO from "../components/seo"
 
 const IndexPage = ({ data }) => (
   <Layout>
-    <SEO title="brick" />
+    <SEO title="Home" />
     {/* <h1>Hi people</h1>
     <Button buttonText="Click me" /> */}
     {/* <p>Welcome to your new Gatsby site.</p>
