@@ -6,7 +6,7 @@ const Header = ({ siteTitle }) => (
   <header>
     <div className="header_logo">
       <h1>
-        <Link to="/">{siteTitle}</Link>
+        brick
       </h1>
     </div>
     <nav>
