@@ -1,5 +1,14 @@
 [
     {
+      "title": "UnderReact.click",
+      "date": "2021-01",
+      "description":
+        "A ReactJS and Tailwind CSS web app deployed on AWS that features a fun way to learn about React essentials.",
+      "url": "https://github.com/garethbrickman/underreact",
+      "exturl": "https://www.underreact.click",
+      "thumbnailImage": "../images/projects/underreact.png"
+    },
+    {
       "title": "CTCovid19.com",
       "date": "2020-04",
       "description":
