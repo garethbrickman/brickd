@@ -10,7 +10,7 @@ const Header = ({ siteTitle }) => (
     <nav>
       <Link to="/about">About</Link>
       <Link to="/projects">Projects</Link>
-      <a href="https://drive.google.com/file/d/1DBe1Bw0sI9oXBHXs19-WaKcpC8P-pddo/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
+      <a href="https://drive.google.com/file/d/1BCSsXd8Ss2ailu1vxf5dOL3xmMLiA5L5/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
 {/*       <Link to="/blog">Blog</Link> */}
       <Link to="/contact">Contact</Link>
     </nav>
