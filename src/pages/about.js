@@ -10,8 +10,7 @@ const AboutPage = ({ data }) => (
     <SEO title="About" />
     <p>I’m Brick, a computer figure outerer.</p>
     <br/>
-    <hr/>
-    <p>The construction of this site would not have been possible without troubleshooting the public work of:</p>
+    <p>The construction of this site would not have been possible without the public works of:</p>
     <p><a href="https://jenniferwadella.com/blog/all-the-dumb-mistakes-i-made-building-my-first-gatsby-site"
     target="_blank" rel="noopener noreferrer">Jennifer Wadella</a>, <a href="https://chenhuijing.com/blog/flexbox-and-absolute-positioning/#%F0%9F%91%9F"
     target="_blank" rel="noopener noreferrer">Chen Hui Jing</a>, <a href="https://github.com/gaearon/overreacted.io"
