@@ -8,20 +8,7 @@ import Img from 'gatsby-image';
 const AboutPage = ({ data }) => (
   <Layout>
     <SEO title="About" />
-    <p>I’m Brick, a computer figure outerer and founder of <em>Suave Na Nave LLC</em>. That's a Brazilian Portuguese saying that means "supercool", which I aspire to always be.</p>
-    <p>I’ve been tinkering with computers since Netscape, 56k modems and IRC were bleeding edge.</p>
-    <p>I have now taken my decades of tinkering pro and graduated from an intensive 18-month higher education program that trained me in software engineering and full stack web development.</p>
-    <p>I believe software development is a craft to be honed and requires mastering arts and sciences alike. My two prime motivators are deep desires to learn and rapidly figure new and old tech out and to be practically and meaningfully helpful with these skills.</p>
-    <p>My software tech experience:</p>
-    <ul>
-    <li><b>Frontend:</b> HTML, CSS, Javascript (ES6 and a little Typescript), ReactJS, GatsbyJS, Sass, Bootstrap, TailwindCSS.</li>
-    <p></p>
-    <li><b>Backend:</b> C (comp sci fundamentals, data structures & algorithms), RestAPIs (Python with Flask and Javascript with ExpressJS), Databases (MySQL predominantly, a little Redis, a little GraphQL and a little MongoDB for NoSQL).</li>
-    <p></p>
-    <li><b>Sysadmin:</b> Git (all our projects were built, uploaded and reviewed on Github), Unix shell scripts (Bash, zsh), remote server management (Ubuntu Server/Debian, a little bit of Docker), VM management (VirtualBox, vagrant), in-house web server management (Nginx and Apache), cloud services and deployments (AWS S3, AWS Amplify, a little AWS EC2, Digital Ocean droplets). I have also done a little DNS configuration with Google Domains and AWS Route 53.</li>
-    <p></p>
-    <li><b>Other Skills:</b> Project-based problem solving, whiteboarding ideas and solutions, collaboration and teamwork with multiple onsite projects in pairs and larger teams, remote collaboration with asynchronous communication, project management using Kanban boards and Agile-ish methodology, public speaking and presentations.</li>
-    </ul>
+    <p>I’m Brick, a computer figure outerer.</p>
     <br/>
     <hr/>
     <p>The construction of this site would not have been possible without troubleshooting the public work of:</p>
