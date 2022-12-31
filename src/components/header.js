@@ -9,7 +9,7 @@ const Header = ({ siteTitle }) => (
     </div>
     <nav>
       <Link to="/about">About</Link>
-      <Link to="/projects">Projects</Link>
+      {/* <Link to="/projects">Projects</Link> */}
 {/*<a href="https://docs.google.com/document/d/e/2PACX-1vTEM1kd5KiWRkFXalikAfMTve1sm4vg4PRfgvWxF8u_n01GhnbVRJio2X-W2kyulRE_B4N4ItWUN5_2/pub" target="_blank" rel="noopener noreferrer">Resume</a>*/}
 {/*       <Link to="/blog">Blog</Link> */}
       <Link to="/contact">Contact</Link>
